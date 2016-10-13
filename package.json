@@ -1,0 +1,19 @@
+{
+  "name": "njs-302-tp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "myhero": "./index.js"
+  },
+  "author": "BOR Pierre",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "inquirer": "^1.2.1",
+    "marvel-comics-api": "^1.3.0"
+  }
+}
